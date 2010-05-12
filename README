@@ -1,0 +1,2 @@
+Plugin Audio Player view controller for iPhone devs. Initialise the controller with the name of an audio file in your application's resource bundle and add the view where you want it.
+
